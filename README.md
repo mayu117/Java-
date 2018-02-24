@@ -1,7 +1,6 @@
 # Java-
 总有那么一天
-
-<div class='BlogContent clearfix'>
+ 
                     <h1>一、java知识点</h1>
 <h4><a href="http://blog.csdn.net/bingduanlbd/article/details/8363734">Java虚拟机工作原理详解</a></h4>
 <h4><a href="http://playkid.blog.163.com/blog/static/56287260201372113842153/">JDK、JRE、JVM三者间的关系 </a></h4>
@@ -162,4 +161,4 @@
 <h4><a href=""></a></h4>
 <h4><a href=""></a></h4>
 
-                </div>
+            
