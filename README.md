@@ -1,7 +1,7 @@
 # Java-
 总有那么一天
- 
-                    <h1>一、java知识点</h1>
+#
+<h1>一、java知识点</h1>
 <h4><a href="http://blog.csdn.net/bingduanlbd/article/details/8363734">Java虚拟机工作原理详解</a></h4>
 <h4><a href="http://playkid.blog.163.com/blog/static/56287260201372113842153/">JDK、JRE、JVM三者间的关系 </a></h4>
 <h4><a href="http://www.jb51.net/article/92758.htm">详解JAVA类加载机制(推荐)</a></h4>
