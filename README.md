@@ -1,0 +1,165 @@
+# Java-
+总有那么一天
+
+<div class='BlogContent clearfix'>
+                    <h1>一、java知识点</h1>
+<h4><a href="http://blog.csdn.net/bingduanlbd/article/details/8363734">Java虚拟机工作原理详解</a></h4>
+<h4><a href="http://playkid.blog.163.com/blog/static/56287260201372113842153/">JDK、JRE、JVM三者间的关系 </a></h4>
+<h4><a href="http://www.jb51.net/article/92758.htm">详解JAVA类加载机制(推荐)</a></h4>
+<h4><a href="http://www.cnblogs.com/ITtangtang/p/3978102.html">深入理解Java：类加载机制及反射</a></h4>
+<h4><a href="https://pan.baidu.com/s/1gf7Iwgj">Java核心技术（卷2）：高级特性（原书第9版）.pdf</a></h4>
+<h4><a href="https://pan.baidu.com/s/1kUTE8LL">Java网络高级编程.pdf</a></h4>
+<h4><a href="http://www.runoob.com/java/java-networking.html">Java 网络编程</a></h4>
+<h4><a href="http://lavasoft.blog.51cto.com/62575/27069/">Java多线程编程</a></h4>
+<h4><a href="http://www.mamicode.com/info-detail-517008.html">Java多线程编程</a></h4>
+<h4><a href="http://blog.csdn.net/escaflone/article/details/10418651">Java 多线程 并发编程</a></h4>
+<h4><a href="http://www.runoob.com/java/java-multithreading.html">Java多线程编程</a></h4>
+<h1>二、分布式知识点</h1>
+<h4><a href="https://my.oschina.net/geecoodeer/blog/202561">分布式系统原理概述</a></h4>
+<h4><a href="http://www.cnblogs.com/pains/archive/2011/06/06/2073482.html">分布式系统设计原理与方案</a></h4>
+<h4><a href="http://blog.csdn.net/gugemichael/article/details/36688043">分布式系统设计系列 -- 基本原理及高可用策略</a></h4>
+<h4><a href="http://www.cnblogs.com/gowhy/archive/2012/12/28/2837399.html">分布式系统原理</a></h4>
+<h4><a href="http://www.cnblogs.com/soundcode/p/5590710.html">保证分布式系统数据一致性的6种方案</a></h4>
+<h4><a href="http://blog.csdn.net/jone_lu/article/details/52314644">系统分布式情况下最终一致性方案梳理</a></h4>
+<h4><a href="http://blog.csdn.net/starxu85/article/details/5399183">CAP原理与最终一致性</a></h4>
+<h4><a href="http://www.cnblogs.com/BrightMoon/p/5622618.html">分布式最终一致方案梳理</a></h4>
+<h4><a href="http://www.blogjava.net/hello-yun/archive/2012/04/27/376744.html">CAP原理与最终一致性 强一致性 透析</a></h4>
+<h1>三、大型网络应用框架</h1>
+<h4><a href="http://www.jianshu.com/p/74475cd251b5">理解JAVA MQ消息中间件</a></h4>
+<h4><a href="http://blog.csdn.net/u013573133/article/details/48142439">阿里巴巴的消息中间件分析</a></h4>
+<h4><a href="http://www.cnblogs.com/happyday56/p/4268045.html">Java中间件：淘宝网系统高性能利器</a></h4>
+<h4><a href="http://www.tuicool.com/articles/mEBVneB">RocketMQ：一个纯java的开源消息中间件--开发测试环境搭建</a></h4>
+<h4><a href="http://www.blogjava.net/orangelizq/archive/2008/01/27/178030.html">消息中间件原理及JMS简介之二</a></h4>
+<h4><a href="http://aokunsang.iteye.com/blog/2053719">浅谈web应用的负载均衡、集群、高可用(HA)解决方案</a></h4>
+<h4><a href="http://blog.csdn.net/cdh1213/article/details/21443239"> java集群技术</a></h4>
+<h4><a href="http://www.cnblogs.com/szlbm/p/5588555.html">几种简单的负载均衡算法及其Java代码实现</a></h4>
+<h4><a href="http://blog.csdn.net/fuxiaohui/article/details/45439999"> 使用Apache通过JK实现多Tomcat负载均衡集群实现总结及自己的感悟</a></h4>
+<h4><a href="http://itsoul.iteye.com/blog/777212">集群、分布式、负载均衡区别与联系</a></h4>
+<h4><a href="http://www.bitscn.com/pdb/java/201009/190659.html">Web服务器Tomcat集群与负载均衡技术</a></h4>
+<h4><a href="http://f.dataguru.cn/thread-594771-1-1.html">浅谈web应用的负载均衡、集群、高可用(HA)解决方案</a></h4>
+<h1>四、java框架</h1>
+<h4><a href="http://ifeve.com/spring-interview-questions-and-answers/">69道Spring面试题和答案</a></h4>
+<h4><a href="http://www.itmmd.com/201504/714.html">最全的Spring面试题和答案&lt;一&gt;</a></h4>
+<h4><a href="http://www.cnrencai.com/mianshi/mianshiwenti/6043.html">Java工程师三大框架面试题汇总</a></h4>
+<h4><a href="http://www.jfox.info/25-ge-jing-dian-de-spring-mian-shi-wen-da">25个经典的Spring面试问答</a></h4>
+<h4><a href="http://blog.csdn.net/tmaskboy/article/details/51535792"> Spring面试题和答案</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/spring/3148/">Java框架面试题</a></h4>
+<h4><a href="http://www.linuxidc.com/Linux/2015-12/125877.htm">Spring经典面试题分享</a></h4>
+<h4><a href="http://www.kanzhun.com/k-mianshitimu/530428.html">Spring框架有哪几部分组成？</a></h4>
+<h4><a href="http://www.kanzhun.com/k-mianshitimu/530429.html">使用Spring有什么好处</a></h4>
+<h4><a href="http://blog.sina.com.cn/s/blog_75698d370101hdwa.html">Java面试题专题之SSH框架 </a></h4>
+<h4><a href="http://www.jb51.net/article/76411.htm">关于Java集合框架面试题（含答案）上</a></h4>
+<h4><a href="http://www.tuicool.com/articles/Bveemub">20个最佳的Java集合框架面试题目</a></h4>
+<h4><a href="http://bbs.csdn.net/topics/390552568">总结Java常见面试题和答案</a></h4>
+<h4><a href="http://blog.jobbole.com/19167/">Java程序员集合框架面试题</a></h4>
+<h4><a href="https://zhuanlan.zhihu.com/p/21551758">Java工程师面试题整理[社招篇]</a></h4>
+<h4><a href="http://www.yl1001.com/article/2951445563312442.htm">Java工程师必看三大框架面试题</a></h4>
+<h4><a href="http://www.2cto.com/database/201508/439359.html">mybatis常见的面试题</a></h4>
+<h4><a href="http://www.cnblogs.com/inspurhaitian/p/4647485.html">JAVA面试中问及HIBERNATE与 MYBATIS的对比，在这里做一下总结</a></h4>
+<h4><a href="http://blog.csdn.net/frankaqi/article/details/51872730"> mybatis 面试题</a></h4>
+<h4><a href="http://www.cnblogs.com/wang-meng/p/5701990.html">Java面试七Mybatis总结以及在面试中的一些问题.</a></h4>
+<h4><a href="http://blog.csdn.net/cheat1173010256/article/details/50849176">mybatis 面试题</a></h4>
+<h4><a href="http://blog.jobbole.com/40758/">Hibernate的10个常见面试问题及答案</a></h4>
+<h4><a href="http://blog.csdn.net/u011225629/article/details/48057395"> Hibernate面试题+答案</a></h4>
+<h4><a href="http://www.jfox.info/Hibernate-mian-shi-ti-shuo-shuo-ni-dui-Hibernate-de-yi-xie-liao-jie-he-kan-fa">Hibernate面试题:说说你对Hibernate的一些了解和看法？</a></h4>
+<h4><a href="http://www.cnblogs.com/lsx1993/p/4619995.html">Hibernate面试题</a></h4>
+<h4><a href="http://blog.knowsky.com/181420.htm">Hibernate 常见面试题集</a></h4>
+<h4><a href="http://jingyan.baidu.com/article/ad310e80bd1e861849f49e24.html">jdbc与hibernate的优缺点比较</a></h4>
+<h4><a href="http://90zjh.group.iteye.com/group/topic/27978">hibernate和JDBC的区别是什么</a></h4>
+<h4><a href="http://www.ibm.com/developerworks/cn/java/j-lo-hibernate-jdbc/">在 Hibernate 中直接操作 JDBC 接口</a></h4>
+<h4><a href="http://blog.csdn.net/sunhuwh/article/details/8466695"> Hibernate原理，与JDBC比较</a></h4>
+<h1>五、dubbo与zookeeper面试</h1>
+<h4><a href="http://blog.csdn.net/u012099568/article/details/51678660">dubbo--zookeeper面试中问题解答</a></h4>
+<h4><a href="https://my.oschina.net/u/1455908/blog/389003">面试题总结</a></h4>
+<h4><a href="http://blog.csdn.net/lovesummerforever/article/details/48180957">dubbo工作原理</a></h4>
+<h4><a href="https://www.zhihu.com/question/25070185">zookeeper在Dubbo中扮演了一个什么角色，起到了什么作用啊？</a></h4>
+<h4><a href="https://segmentfault.com/q/1010000006094521/a-1020000006096135">面试题：Dubbo中zookeeper做注册中心，如果注册中心集群都挂掉，发布者和订阅者之间还能通信么？</a></h4>
+<h4><a href="http://blog.csdn.net/kefeng824/article/details/50207843"> Dubbo常用配置积累</a></h4>
+<h4><a href="http://1358440610-qq-com.iteye.com/blog/2196235">Dubbo与Zookeeper、SpringMVC整合和使用（负载均衡、容错）</a></h4>
+<h4><a href="http://www.3fwork.com/b200/004282MYM028211/">Dubbo学习小记</a></h4>
+<h4><a href="http://blog.csdn.net/tanga842428/article/details/52247756">ZooKeeper常见问题整理</a></h4>
+<h4><a href="http://cailin.iteye.com/blog/2014486/">zookeeper原理（转）</a></h4>
+<h4><a href="http://blog.csdn.net/xinguan1267/article/details/38422149">ZooKeeper原理及使用</a></h4>
+<h4><a href="http://www.cnblogs.com/luxiaoxun/p/4887452.html">ZooKeeper基本原理</a></h4>
+<h1>六、linux面试</h1>
+<h4><a href="http://www.yjbys.com/bbs/338830.html">Linux经典面试题及答案</a></h4>
+<h4><a href="http://jingyan.baidu.com/article/f54ae2fcd611b61e92b849f7.html">LInux面试题（大多数公司泄露的）</a></h4>
+<h4><a href="http://blog.csdn.net/yhf19881015/article/details/9048165">非常全的linux面试笔试题及参考答案</a></h4>
+<h4><a href="http://zhangge.net/1986.html">Linux运维工程师：30道面试题整理</a></h4>
+<h4><a href="http://bbs.51cto.com/thread-1149112-1-1.html">Linux运维工程师面试-部分题库及答案</a></h4>
+<h4><a href="https://www.douban.com/note/537165232/">Linux运维面试题答案版 （一）</a></h4>
+<h4><a href="http://www.linuxidc.com/Linux/2014-08/105150.htm">10个有用的Linux命令面试问题及答案</a></h4>
+<h4><a href="http://www.jb51.net/article/51574.htm">5个实用的shell脚本面试题和答案</a></h4>
+<h4><a href="http://blog.chinaunix.net/uid-25454054-id-3776507.html">Linux运维经典问题33则（附赠年薪10W+面试题与答案） </a></h4>
+<h4><a href="http://sanwen8.cn/p/116X5Et.html">2016Linux面试题目汇总</a></h4>
+<h4><a href="http://airui.blog.51cto.com/6045950/1678862">运维必须掌握的Linux面试题</a></h4>
+<h4><a href="http://3y.uu456.com/bp_1h6ww3tan23xy6q95jaw_1.html">16LINUX内核经典面试题30道及解答</a></h4>
+<h1>七、数据库面试</h1>
+<h4><a href="http://blog.csdn.net/hectorhua/article/details/13767361"> 数据库常见笔试面试题</a></h4>
+<h4><a href="http://blog.sina.com.cn/s/blog_8dc50331010158u7.html">数据库面试中常用的10个问题 </a></h4>
+<h4><a href="http://www.2cto.com/database/201504/390838.html">数据库常见面试题</a></h4>
+<h4><a href="http://blog.csdn.net/zhanghaotian2011/article/details/8904365">数据库常见的面试题</a></h4>
+<h4><a href="http://www.gkstk.com/article/wk-5235324308579.html">关于数据库方面的面试题精选3篇</a></h4>
+<h4><a href="https://my.oschina.net/hnuweiwei/blog/222186">数据库常见笔试面试题</a></h4>
+<h4><a href="http://wenku.baidu.com/link?url=YRopDhynGxxZ7zuEpPSmCZDB1qtZbKlVbqhtpJngTrWfSae9BlpXGgt0m4vkQHjtNNwrHbIa5S2qw-p1_5m_vD4SEWyS3kPRaAgLBrcxHQO">数据库开发面试题</a></h4>
+<h4><a href="http://www.cnblogs.com/haore147/p/3902807.html">数据库面试题(一)</a></h4>
+<h4><a href="http://www.yjbys.com/bbs/312572.html">十个经典的数据库面试问题</a></h4>
+<h4><a href="http://bbs.it-home.org/thread-16612-1-1.html">	mysql 经典面试题</a></h4>
+<h4><a href="http://3y.uu456.com/bp_1ye612srvi3xy6q95j4z_1.html">16数据库面试题答案</a></h4>
+<h4><a href="http://mt.sohu.com/20160213/n437280491.shtml">数据库面试题-sql语句</a></h4>
+<h4><a href="http://blog.csdn.net/zdp072/article/details/50991116">redis面试题总结</a></h4>
+<h4><a href="http://www.100mian.com/mianshi/dba/37381.html">收集的一些Redis面试题</a></h4>
+<h4><a href="http://blog.csdn.net/guchuanyun111/article/details/52064870"> redis详解（三）-- 面试题</a></h4>
+<h4><a href="http://blog.csdn.net/yvhqbat/article/details/51658211"> redis面试题总结</a></h4>
+<h4><a href="http://www.cnblogs.com/doudouxiaoye/p/5801194.html">redis面试题总结</a></h4>
+<h4><a href="http://www.searchdatabase.com.cn/showcontent_80124.htm">28个MongoDB经典面试题</a></h4>
+<h4><a href="http://blog.csdn.net/shehun1/article/details/21240731"> MongoDB面试题集锦</a></h4>
+<h4><a href="http://www.cnblogs.com/xing901022/p/3978243.html">MongoDB知识整理</a></h4>
+<h4><a href="http://www.linuxidc.com/Linux/2014-03/98216.htm">MongoDB经典面试题集锦</a></h4>
+<h4><a href="http://www.cnblogs.com/coser/archive/2011/11/23/2260537.html">百度二面，悲剧了，附面试题，欢迎探讨。</a></h4>
+<h4><a href="https://my.oschina.net/u/1450100/blog/199267">MongoDB面试题__加强</a></h4>
+<h4><a href="http://www.cnblogs.com/usa007lhy/p/5502520.html">memcache面试题汇总</a></h4>
+<h4><a href="http://www.iteye.com/topic/1124250">memcached面试题集锦</a></h4>
+<h4><a href="http://blog.csdn.net/zhuanshenweiliu/article/details/38865125">Memcache知识点梳理</a></h4>
+<h4><a href="http://www.bubuko.com/infodetail-1071399.html">Memcached常见面试题--必知必会（题目）</a></h4>
+<h4><a href="http://www.xuebuyuan.com/797887.html">面试题：Memcache与Redis的区别</a></h4>
+<h1>八、apache和nginx面试</h1>
+<h4><a href="http://www.cnblogs.com/huangye-dream/p/3550328.html">Apache与Nginx的优缺点比较</a></h4>
+<h4><a href="http://www.oschina.net/news/71617/the-reason-why-nginx-fast-than-apache">为什么 Nginx 的性能要比 Apache 高很多？</a></h4>
+<h4><a href="http://www.jb51.net/article/38616.htm">深入Apache与Nginx的优缺点比较详解</a></h4>
+<h4><a href="http://blog.csdn.net/jcjc918/article/details/46665919">Apache 与 Nginx 比较</a></h4>
+<h4><a href="http://www.oschina.net/question/817537_111192">nginx 与 apache 的主要区别 ？ nginx快的原因 ？</a></h4>
+<h4><a href="http://www.toxingwang.com/linux-unix/linux-basic/1712.html">Nginx为什么比Apache Httpd高效：原理篇</a></h4>
+<h4><a href="http://www.techug.com/nginx-apache">为什么Nginx的性能要比Apache高很多？</a></h4>
+<h4><a href="http://www.jb51.net/article/58852.htm">简单谈谈apache与nginx</a></h4>
+<h4><a href="http://www.php100.com/html/itnews/PHPxinwen/2012/0103/9606.html">关于Apache与Nginx的优势比较</a></h4>
+<h4><a href="https://www.zhihu.com/question/23926829">nginx在很多情况下比apache性能要好，为什么相当数量的大网站仍然用apache呢？</a></h4>
+<h4><a href="http://www.server110.com/nginx/201402/6543.html">Apache和Nginx运行原理解析</a></h4>
+<h4><a href="http://jingyan.baidu.com/article/08b6a591aaf19614a9092260.html">web服务器选择Apache还是Nginx</a></h4>
+<h4><a href="http://blog.itpub.net/29754888/viewspace-1672476/">Nginx支持比Apache高并发的原因 </a></h4>
+<h4><a href="Apache与Nginx的优缺点比较">http://itindex.net/detail/50008-apache-nginx</a></h4>
+<h4><a href="http://blog.jobbole.com/60471/">关于 Apache 的 25 个初中级面试题</a></h4>
+<h4><a href="http://www.zhixing123.cn/jsp/46826.html">Apache面试题汇总及答案详细大全</a></h4>
+<h4><a href="http://www.cnblogs.com/xing901022/p/3977953.html"> Apache知识整理</a></h4>
+<h4><a href="http://www.codeceo.com/article/15-apache-interview-question.html">25个Apache面试题汇总</a></h4>
+<h4><a href="http://www.oschina.net/translate/apache-interview-questions">关于 Apache 的 25 个初中级面试题</a></h4>
+<h1>九、tomcat和weblogic面试</h1>
+<h4><a href="http://blog.csdn.net/t0404/article/details/51893275"> Tomcat面试题目</a></h4>
+<h4><a href="http://blog.csdn.net/itcast_cn/article/details/48949233">Java面试题Tomcat的优化经验</a></h4>
+<h4><a href="http://www.jfox.info/guan-yu-Tomcat-he-Tomcat-de-mian-shi-wen-ti">关于Tomcat和Tomcat的面试问题</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/java/7870/">简单说说tomcat的配置?</a></h4>
+<h4><a href="http://www.jfox.info/guan-yu-java-tomcat-ji-qun-de-mian-shi-wen-ti">关于java Tomcat 集群的面试问题</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/oracle/7923/">Tomcat怎么进行性能调整?(6)</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/java/7637/">tomcat 最多支持并发多少用户?</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/java/8142/">weblogic面试题</a></h4>
+<h4><a href="http://blog.163.com/oubo67_@126/blog/static/6475694720121294733868/">WebLogic面试题  </a></h4>
+<h4><a href="http://www.educity.cn/wenda/210077.html">j2ee程序员面试题1、几种服务器的区别及何时应用？为什么？（如weblogic,Tomat等等）</a></h4>
+<h4><a href="http://www.yjbys.com/bbs/314357.html">WebLogic面试题</a></h4>
+<h4><a href="http://www.jobui.com/mianshiti/it/java/7961/">Weblogic的布署方式</a></h4>
+<h4><a href="http://3y.uu456.com/bp-a1174444f46s27d32s0ce028-1.html">Weblogic试题(含答案)53</a></h4>
+<h4><a href=""></a></h4>
+<h4><a href=""></a></h4>
+<h4><a href=""></a></h4>
+<h4><a href=""></a></h4>
+
+                </div>
